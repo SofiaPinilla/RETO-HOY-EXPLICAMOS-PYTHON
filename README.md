@@ -28,7 +28,7 @@ Cada equipo preparará un ejemplo del tema asignado en la tabla y saldrá a expl
 - Una modificación o un error típico que ayude a entender el concepto.
 - Una pregunta para que el resto prediga qué va a pasar. Escuchad las respuestas de la clase y después mostrad la solución.
 
-La exposición consiste en enseñar y explicar el código directamente. No tenéis que preparar diapositivas ni una presentación adicional. Usad conceptos de las clases, sin añadir frameworks ni herramientas nuevas.
+La exposición consiste en enseñar y explicar el código directamente. No tenéis que preparar diapositivas ni una presentación adicional sino lo véis necesario.
 
 ## Misiones por equipo
 
